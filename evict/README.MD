@@ -3,5 +3,7 @@
 # https://azron.net
 # https://evict.bot
 
-## +++ All code in this subrepository belongs to Accurs, initial code from https://github.com/accurs/evict
-## +++ This code will NOT be modified in anyway, and all code is as was archived
+```diff
++ All code in this subrepository belongs to Accurs, initial code from https://github.com/accurs/evict
++ This code will NOT be modified in anyway, and all code is as was archived
+```
